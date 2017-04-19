@@ -9,7 +9,6 @@ function square() {
 </script>
 </head>
 <body>
-<h1>Luis de la Puente Vigo</h1>
   Number:
   <input type="text" id="n1"><p>
 
